@@ -1,0 +1,258 @@
+.research {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .research .overlap-wrapper {
+    background-color: #ffffff;
+    overflow: hidden;
+    width: 1441px;
+    height: 1649px;
+  }
+  
+  .research .overlap {
+    position: relative;
+    width: 1448px;
+    height: 1649px;
+  }
+  
+  .research .image {
+    width: 1441px;
+    height: 1649px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .research .text-wrapper {
+    position: absolute;
+    width: 400px;
+    top: 168px;
+    left: 559px;
+    font-family: "Inria Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 50px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .research .div {
+    position: absolute;
+    width: 809px;
+    top: 960px;
+    left: 206px;
+    font-family: "Inria Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 30px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .research .p {
+    position: absolute;
+    width: 809px;
+    top: 1267px;
+    left: 194px;
+    font-family: "Inria Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 30px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .research .year-long-falculty {
+    position: absolute;
+    width: 553px;
+    top: 527px;
+    left: 272px;
+    font-family: "Inria Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .research .view-sample-work {
+    position: absolute;
+    top: 643px;
+    left: 1124px;
+    font-family: "Inria Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    text-decoration: underline;
+  }
+  
+  .research .view-sample-work-2 {
+    top: 974px;
+    position: absolute;
+    left: 1124px;
+    font-family: "Inria Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    text-decoration: underline;
+  }
+  
+  .research .text-wrapper-2 {
+    position: absolute;
+    width: 768px;
+    top: 394px;
+    left: 183px;
+    font-family: "Inria Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 30px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .research .ic-cae-image {
+    position: absolute;
+    width: 576px;
+    height: 180px;
+    top: 438px;
+    left: 872px;
+  }
+  
+  .research .overlap-group {
+    position: relative;
+    width: 569px;
+    height: 180px;
+  }
+  
+  .research .intelligence {
+    position: absolute;
+    top: 0;
+    left: 287px;
+    font-family: "Inria Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .research .img {
+    width: 569px;
+    height: 180px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .research .text-wrapper-3 {
+    top: 1281px;
+    position: absolute;
+    left: 1124px;
+    font-family: "Inria Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    text-decoration: underline;
+  }
+  
+  .research .text-wrapper-4 {
+    position: absolute;
+    top: 1504px;
+    left: 1157px;
+    font-family: "Inria Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .research .text-wrapper-5 {
+    position: absolute;
+    top: 1501px;
+    left: 232px;
+    font-family: "Inria Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 30px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .research .group {
+    position: absolute;
+    width: 1153px;
+    height: 46px;
+    top: 71px;
+    left: 232px;
+  }
+  
+  .research .text-wrapper-6 {
+    position: absolute;
+    width: 320px;
+    top: 0;
+    left: 827px;
+    text-shadow: 0px 4px 4px #00000040;
+    font-family: "Inria Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 40px;
+    letter-spacing: 2.00px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .research .text-wrapper-7 {
+    position: absolute;
+    width: 320px;
+    top: 0;
+    left: 367px;
+    text-shadow: 0px 4px 4px #00000040;
+    font-family: "Inria Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 40px;
+    letter-spacing: 2.00px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .research .text-wrapper-8 {
+    position: absolute;
+    width: 265px;
+    top: 0;
+    left: 0;
+    text-shadow: 0px 4px 4px #00000040;
+    font-family: "Inria Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 40px;
+    text-align: center;
+    letter-spacing: 2.00px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
