@@ -1,0 +1,421 @@
+.landing-page {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.landing-page .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1440px;
+  height: 1024px;
+  position: relative;
+}
+
+.landing-page .overlap-group {
+  position: absolute;
+  width: 1440px;
+  height: 1024px;
+  top: 0;
+  left: 0;
+}
+
+.landing-page .greenthing {
+  position: absolute;
+  width: 488px;
+  height: 530px;
+  top: 80px;
+  left: 0;
+}
+
+.landing-page .rectangle {
+  position: absolute;
+  width: 302px;
+  height: 63px;
+  top: 725px;
+  left: 1102px;
+}
+
+.landing-page .backky {
+  position: absolute;
+  width: 556px;
+  height: 546px;
+  top: 79px;
+  left: 347px;
+}
+
+.landing-page .clover {
+  position: absolute;
+  width: 258px;
+  height: 459px;
+  top: 221px;
+  left: 491px;
+  object-fit: cover;
+}
+
+.landing-page .img {
+  position: absolute;
+  width: 258px;
+  height: 459px;
+  top: 208px;
+  left: 80px;
+  object-fit: cover;
+}
+
+.landing-page .clover-2 {
+  position: absolute;
+  width: 258px;
+  height: 400px;
+  top: 0;
+  left: 89px;
+  object-fit: cover;
+}
+
+.landing-page .group {
+  position: absolute;
+  width: 1292px;
+  height: 27px;
+  top: 26px;
+  left: 89px;
+}
+
+.landing-page .research {
+  position: absolute;
+  width: 217px;
+  top: 2px;
+  left: 0;
+  text-shadow: 0px 4px 4px #00000040;
+  font-family: "Krona One-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 1.50px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.landing-page .text-wrapper {
+  position: absolute;
+  width: 320px;
+  top: 0;
+  left: 471px;
+  text-shadow: 0px 4px 4px #00000040;
+  font-family: "Krona One-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 30px;
+  letter-spacing: 1.50px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.landing-page .text-wrapper-2 {
+  position: absolute;
+  width: 320px;
+  top: 2px;
+  left: 966px;
+  text-shadow: 0px 4px 4px #00000040;
+  font-family: "Krona One-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 30px;
+  letter-spacing: 1.50px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.landing-page .mee {
+  position: absolute;
+  width: 408px;
+  height: 408px;
+  top: 158px;
+  left: 221px;
+}
+
+.landing-page .clover-3 {
+  position: absolute;
+  width: 208px;
+  height: 352px;
+  top: 0;
+  left: 503px;
+  object-fit: cover;
+}
+
+.landing-page .sticky {
+  position: absolute;
+  width: 264px;
+  height: 147px;
+  top: 85px;
+  left: 280px;
+  object-fit: cover;
+}
+
+.landing-page .hi-i-m-lena {
+  position: absolute;
+  top: 539px;
+  left: 4px;
+  text-shadow: 0px 4px 4px #00000040;
+  -webkit-text-stroke: 1px #000000;
+  font-family: "Risque-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 86px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.landing-page .span {
+  font-family: "Risque-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 86px;
+  letter-spacing: 0;
+}
+
+.landing-page .text-wrapper-3 {
+  text-decoration: underline;
+}
+
+.landing-page .vector {
+  position: absolute;
+  width: 24px;
+  height: 135px;
+  top: 276px;
+  left: 1090px;
+}
+
+.landing-page .vector-2 {
+  position: absolute;
+  width: 16px;
+  height: 2px;
+  top: 364px;
+  left: 1132px;
+}
+
+.landing-page .vector-3 {
+  position: absolute;
+  width: 2px;
+  height: 4px;
+  top: 224px;
+  left: 1242px;
+}
+
+.landing-page .vector-4 {
+  position: absolute;
+  width: 6px;
+  height: 4px;
+  top: 254px;
+  left: 1139px;
+}
+
+.landing-page .backgroundthingy {
+  position: absolute;
+  width: 675px;
+  height: 999px;
+  top: 25px;
+  left: 765px;
+  object-fit: cover;
+}
+
+.landing-page .SQL {
+  position: absolute;
+  width: 54px;
+  top: 501px;
+  left: 903px;
+  text-shadow: 0px 4px 4px #00000040;
+  font-family: "Krona One-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 10px;
+  text-align: center;
+  letter-spacing: 0.50px;
+  line-height: normal;
+}
+
+.landing-page .text-wrapper-4 {
+  position: absolute;
+  width: 54px;
+  top: 661px;
+  left: 903px;
+  text-shadow: 0px 4px 4px #00000040;
+  font-family: "Krona One-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 10px;
+  text-align: center;
+  letter-spacing: 0.50px;
+  line-height: normal;
+}
+
+.landing-page .text-wrapper-5 {
+  position: absolute;
+  width: 54px;
+  top: 777px;
+  left: 1016px;
+  text-shadow: 0px 4px 4px #00000040;
+  font-family: "Krona One-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 10px;
+  text-align: center;
+  letter-spacing: 0.50px;
+  line-height: normal;
+}
+
+.landing-page .text-wrapper-6 {
+  position: absolute;
+  width: 54px;
+  top: 501px;
+  left: 1300px;
+  text-shadow: 0px 4px 4px #00000040;
+  font-family: "Krona One-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 10px;
+  text-align: center;
+  letter-spacing: 0.50px;
+  line-height: normal;
+}
+
+.landing-page .p {
+  position: absolute;
+  width: 121px;
+  top: 378px;
+  left: 1153px;
+  text-shadow: 0px 4px 4px #00000040;
+  font-family: "Krona One-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 10px;
+  text-align: center;
+  letter-spacing: 0.50px;
+  line-height: normal;
+}
+
+.landing-page .text-wrapper-7 {
+  position: absolute;
+  width: 54px;
+  top: 375px;
+  left: 1020px;
+  text-shadow: 0px 4px 4px #00000040;
+  font-family: "Krona One-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 10px;
+  text-align: center;
+  letter-spacing: 0.50px;
+  line-height: normal;
+}
+
+.landing-page .text-wrapper-8 {
+  position: absolute;
+  width: 54px;
+  top: 661px;
+  left: 1300px;
+  text-shadow: 0px 4px 4px #00000040;
+  font-family: "Krona One-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 10px;
+  text-align: center;
+  letter-spacing: 0.50px;
+  line-height: normal;
+}
+
+.landing-page .r {
+  position: absolute;
+  width: 54px;
+  top: 777px;
+  left: 1186px;
+  text-shadow: 0px 4px 4px #00000040;
+  font-family: "Krona One-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 10px;
+  text-align: center;
+  letter-spacing: 0.50px;
+  line-height: normal;
+}
+
+.landing-page .bon-app-tit {
+  position: absolute;
+  width: 359px;
+  top: 834px;
+  left: 948px;
+  text-shadow: 0px 4px 4px #00000040;
+  font-family: "Krona One-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 1.00px;
+  line-height: normal;
+}
+
+.landing-page .piechart {
+  position: absolute;
+  width: 507px;
+  height: 479px;
+  top: 317px;
+  left: 874px;
+  object-fit: cover;
+}
+
+.landing-page .text-wrapper-9 {
+  position: absolute;
+  width: 359px;
+  top: 235px;
+  left: 948px;
+  text-shadow: 0px 4px 4px #00000040;
+  font-family: "Krona One-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 28px;
+  text-align: center;
+  letter-spacing: 1.40px;
+  line-height: normal;
+}
+
+.landing-page .i-m-a-student-at-UNC-wrapper {
+  position: absolute;
+  width: 632px;
+  height: 264px;
+  top: 705px;
+  left: 58px;
+}
+
+.landing-page .i-m-a-student-at-UNC {
+  position: absolute;
+  width: 638px;
+  height: 329px;
+  top: -45px;
+  left: -4px;
+}
+
+.landing-page .overlap {
+  position: absolute;
+  width: 532px;
+  height: 700px;
+  top: -18965px;
+  left: 4168px;
+}
+
+.landing-page .ellipse {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  top: 310px;
+  left: 310px;
+}
+
+.landing-page .blank {
+  position: absolute;
+  width: 532px;
+  height: 700px;
+  top: 0;
+  left: 0;
+}
